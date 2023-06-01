@@ -1,0 +1,20 @@
+body{
+background-size: cover;
+color: seagreen;
+}
+h3{
+    background-color: navy;
+}
+#velocidade{
+    float: left;
+}
+#volume{
+    float: right;
+}
+#braw_stars{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    color: gold;
+    background-color: white;
+}
